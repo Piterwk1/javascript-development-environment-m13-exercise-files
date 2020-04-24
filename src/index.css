@@ -6,3 +6,7 @@ body {
 table th {
   padding: 5px
 }
+
+table {
+  font-size: 20px;
+}
